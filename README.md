@@ -67,12 +67,7 @@ Copy code
 pip install numpy pandas matplotlib seaborn statsmodels yfinance
 Clone the Repository: Clone the GitHub repository:
 
-bash
-Copy code
-git clone https://github.com/[Your-GitHub-Username]/[Repository-Name].git
-cd [Repository-Name]
 Fetch Data:
-
 Ensure the Python script includes the code to fetch data using yfinance.
 Alternatively, place the pre-downloaded CSV files (AAPL_historical_data.csv, IBM_historical_data.csv, AMZN_historical_data.csv) in the project folder.
 Run the Python Script: Execute the script to perform portfolio optimization:
